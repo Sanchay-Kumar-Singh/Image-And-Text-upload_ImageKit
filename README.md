@@ -1,14 +1,15 @@
-# MERN Image Upload App using ImageKit
+<h1>MERN Image and Text Upload App using ImageKit</h1>
 
 ## Features
-- Upload image
-- Add caption
-- Store data in MongoDB
-- Upload image to ImageKit
-- Feed page with all uploaded posts
-- React + Tailwind UI
-- Deploy Ready
-- Full MERN Stack
+
+* Upload image
+* Add caption
+* Store data in MongoDB
+* Upload image to ImageKit
+* Feed page with all uploaded posts
+* React + Tailwind UI
+* Deploy Ready
+* Full MERN Stack
 
 ## Backend Setup
 
@@ -27,6 +28,8 @@ npm run dev
 ```
 
 ## Deployment
-- Frontend: Vercel
-- Backend: Render
-- Database: MongoDB Atlas
+
+* Frontend: Vercel
+* Backend: vercel
+* Database: MongoDB Atlas
+* Image Storage: ImageKit
