@@ -1,5 +1,4 @@
 <h1>MERN Image and Text Upload App using ImageKit</h1>
-
 ## Features
 
 * Upload image
